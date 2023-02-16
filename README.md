@@ -1,2 +1,2 @@
-# Game-of-Life - משחק החיים 
-המשחק מתנהל על רשת משבצות, וכל משבצת היא באחד משני המצבים "חי" או "מת". בתחילת המשחק השחקן בוחר אילו משבצות לצבוע, ולאחר מכן המשחק מתנהל בעצמו (לכן הוא נחשב גם משחק לאפס שחקנים). המשבצות נקראות "תאים" משום שההתנהגות שלהן מזכירה תאים ביולוגיים שנולדים, חיים ומתים לפי כללים מסוימים, התלויים רק במצבם ובמצב השכנים הקרובים אליהם.
+# The game of life - the game of life
+The game plays out on a grid of slots, and each slot is in one of two states "live" or "dead". The game started, the player chooses which squares to paint, he got to conduct himself (therefore it is also considered a game for zero players). The squares are called "suitable" because their behavior resembles a biological fit that is born, lives and dies according to legal rules, which depend only on their condition and the condition of their closest neighbors.
